@@ -994,6 +994,7 @@ section,
 .about .about-img img {
   position: relative;
   z-index: 2;
+  background-color: #fff;
 }
 
 @media (max-width: 575px) {
@@ -1087,6 +1088,14 @@ section,
   font-weight: 700;
   margin-left: 60px;
 }
+.sitename {
+  background-color: #fff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 0px 3px 5px;
+}
 
 .stats .stats-item p {
   color: color-mix(in srgb, var(--default-color), transparent 40%);
@@ -1111,8 +1120,8 @@ section,
 }
 
 .clients .client-logo img {
-  padding: 20px 40px;
-  max-width: 90%;
+  padding: 0px 40px;
+  max-width: 110%;
   transition: 0.3s;
   opacity: 0.5;
   filter: grayscale(100);
@@ -1126,6 +1135,7 @@ section,
 @media (max-width: 640px) {
   .clients .client-logo img {
     padding: 20px;
+    max-width: 80%;
   }
 }
 
