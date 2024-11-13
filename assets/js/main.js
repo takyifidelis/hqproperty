@@ -86,7 +86,7 @@
         : scrollTop.classList.remove("active");
     }
   }
-  scrollTop.addEventListener("click", (e) => {
+  scrollTop.addEventListener("", (e) => {
     e.preventDefault();
     window.scrollTo({
       top: 0,
