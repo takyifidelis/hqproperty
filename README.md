@@ -215,5 +215,5 @@ For website improvements or bug reports, please contact the development team.
   <p>© 2024 HQ Valuation and Property Consulting. All Rights Reserved.</p>
   
   [![Follow on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://linkedin.com)
-  [![Email Us](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:Hqvaluationandpropertyservices@gmail.com)
+  [![Email Us](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:info@hqvaluation.com)
 </div>
